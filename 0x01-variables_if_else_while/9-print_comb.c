@@ -16,7 +16,6 @@ putchar(j + 48);
 if (i < 9 || j < 9)
 {
 putchar(',');
-putchar(' ');
 }
 }
 }
