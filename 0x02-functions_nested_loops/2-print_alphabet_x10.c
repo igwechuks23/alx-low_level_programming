@@ -10,10 +10,10 @@ void print_alphabet_x10(void)
 {
 	int new_line = 0;
 	char letter;
-		while (new_line++ <= 9)
-		{
+	while (new_line++ <= 9)
+	{
 		for (letter = 'a'; letter <= 'z'; letter++)
 			_putchar(letter);
-			_putchar('\n');
-		}
+		_putchar('\n');
+	}
 }
