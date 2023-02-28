@@ -1,9 +1,8 @@
 #inculde "main.h"
 
 /**
- * reser_to_98 -takes the point and updates the value
- *
- * 'n: int to check
+ * reset_to_98 -takes the point and updates the value
+ * @n: int to check
  * Owned by Igwechuks23
  * Return:0 is success
  */
