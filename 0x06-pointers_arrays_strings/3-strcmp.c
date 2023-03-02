@@ -4,7 +4,7 @@
  * @s1:string
  * @s2:strmp
  * Return:int
- * Bwave/ Bright
+ * igwechuks
  */
 int _strcmp(char *s1, char *s2)
 {
